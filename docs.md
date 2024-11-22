@@ -1,9 +1,3 @@
-### **Choosing a Format for Documentation in GitHub**  
-
-GitHub primarily supports markdown (`.md`) files for documentation. Markdown is easy to write, read, and render beautifully on GitHub. To create a comprehensive documentation file for your project, we will use `overview.md` as the main file in the `docs/` folder. Supplementary files can include diagrams, additional explanations, or step-by-step guides.
-
----
-
 ### **Docs Folder Structure**  
 
 ```plaintext
@@ -21,7 +15,6 @@ docs/
 
 ### **`overview.md`**
 
-```markdown
 # **RoboDK Paint Station Simulation Documentation**
 
 Welcome to the comprehensive documentation for the RoboDK Paint Station Simulation. This file explains the project overview, setup instructions, and workflow in detail.
@@ -150,13 +143,13 @@ If you have questions, feel free to open an issue on the GitHub repository.
 ---
 
 **Happy Simulating!** 🚀
-```
+
 
 ---
 
 ### **`simulation_process.md`**
 
-```markdown
+
 # **Simulation Process Details**
 
 This file explains the detailed step-by-step process for creating the paint station simulation in RoboDK.
@@ -199,6 +192,3 @@ This file explains the detailed step-by-step process for creating the paint stat
 - **UR10e Datasheet**: [Universal Robots](https://www.universal-robots.com).
 
 ---
-```
-
-This structure ensures clear, detailed, and professional documentation for your project. Let me know if you need help creating specific images or refining content!
