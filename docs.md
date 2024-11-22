@@ -56,12 +56,6 @@ This project simulates a robotic paint station using the UR10e industrial manipu
 - **RoboDK**: Download and install from [robodk.com](https://robodk.com).
 - **Python 3.x**: Install Python from [python.org](https://www.python.org).
 
-### **Clone the Repository**
-```bash
-git clone https://github.com/username/RoboDK-Paint-Station.git
-cd RoboDK-Paint-Station
-```
-
 ### **Import RoboDK Files**
 1. Open `paint_station.rdk` in RoboDK.
 2. Verify the robot, tool, and object configurations.
