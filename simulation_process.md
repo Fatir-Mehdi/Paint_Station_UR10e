@@ -1,8 +1,3 @@
-
----
-
-### **`simulation_process.md`**
-
 # **Simulation Process Details**
 
 This file explains the detailed step-by-step process for creating the paint station simulation in RoboDK.
