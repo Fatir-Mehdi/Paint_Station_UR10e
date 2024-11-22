@@ -60,8 +60,8 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ## **Screenshots**
-![Workspace Setup](![image](https://github.com/user-attachments/assets/94548382-aad5-480e-8f6d-14b2cacb9896)
-)  
+![image](https://github.com/user-attachments/assets/545207f3-dc60-4c0d-8e29-6f9e7342655f)
+Workspace Setup
 *Workspace configured with UR10e, reference frames, and objects.*  
 
 ---
